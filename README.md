@@ -4,8 +4,9 @@
 PCG
 
 ## Team Members
-- Zhexi Xu (zhx77@pitt.edu)
-- Hangting Zhu (haz126@pitt.edu)
+- Zhexi Xu
+- Hangting Zhu
+- Yujie "Kevin" Wen
 
 ## Project Overview
 This repository hosts the collaborative project for CMPINF 0010, tasked with determining the "best" neighborhood in Pittsburgh. Using a variety of datasets, each team member in our group PCG applies a unique sub metric to contribute to a collective argument, supported by data driven analysis.
