@@ -1,7 +1,7 @@
-# **Group 24 Final Project: "Best Neighborhood in Pittsburgh"**
+## **Group 24 Final Project: "Best Neighborhood in Pittsburgh"**
 --------
 ## Team Name
-PCG
+PCG (Pittsburgh Chinese Group)
 
 ## Team Members
 - Zhexi Xu
@@ -18,7 +18,7 @@ This repository hosts the collaborative project for CMPINF 0010, tasked with det
 
 ## Data Sources
 - [School Enrollment Data](https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-school-enrollment)
-- [PBP Fire Arm Seizures Data](https://data.wprdc.org/dataset/pbp-fire-arm-seizures)
+- [Fire Arm Seizures Data](https://data.wprdc.org/dataset/pbp-fire-arm-seizures)
 - [Sex by Occupation Data](https://data.wprdc.org/dataset/pittsburgh-american-community-survey-census-data)
 
 ## Repository Overview
