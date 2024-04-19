@@ -1,6 +1,5 @@
 # **Group 24 Final Project: "Best Neighborhood in Pittsburgh"**
 --------
---------
 ## Team Name
 PCG
 --------
